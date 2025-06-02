@@ -1,6 +1,6 @@
 # 🌺 Edward Printer 
 
-** Junior Developer **
+**`Junior Developer`**
 
 👋 Hi there! I'm a Junior Full-Stack Developer passionate about building responsive, user-friendly web applications.
 
